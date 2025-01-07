@@ -49,13 +49,13 @@ global.location = process.env.LOCATION || "Pakistan, Lahore, Sabzazar";
 
 
 //~~~~~~~~<Session and Bot Details>~~~~~~~~~~~~~\\
-global.SESSION_ID = process.env.SESSION_ID || '';
+global.SESSION_ID = process.env.SESSION_ID || 'gBfGebvgJJLgMzYhtzuDq0wyyeuHCBhU86DqNByEsu0';
 
 global.botname = process.env.BOT_NAME || 'XLICON-V4-MD';
 
-global.ownernumber = [process.env.OWNER_NUMBER || '923184070915'];
+global.ownernumber = [process.env.OWNER_NUMBER || '254796779229'];
 
-global.ownername = process.env.OWNER_NAME || '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙';
+global.ownername = process.env.OWNER_NAME || 'NAMEWELL';
 
 
 //~~~~~~<Website and Social Links>~~~~~~~~~~\\
